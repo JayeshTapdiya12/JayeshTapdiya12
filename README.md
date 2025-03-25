@@ -1,11 +1,27 @@
+# Hi, I'm Jayesh Tapdiya! 👋
 
-- 👋 Hi, I’m Jayesh Tapdiya
--👀 I’m interested in coding
--🌱 I’m currently learning data science and competitive programing
--💞️ I’m looking to collaborate on analysis and developing projects
--📫 How to reach me email:- jayesh121220@gmail.com
+🚀 **Developer | Tech Enthusiast | Problem Solver**
 
-<!---
-JayeshTapdiya12/JayeshTapdiya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about **software development, algorithms, AI, and open-source projects**. I love building things that make an impact and continuously learning new technologies.
+
+## 🔥 What I Do
+- 💻 **Software Development** – Crafting scalable and efficient solutions.
+- 🤖 **AI & Machine Learning** – Exploring the world of intelligent systems.
+- 🔍 **Algorithms & Data Structures** – Solving complex coding challenges.
+- 🚀 **Open Source Contributor** – Collaborating on exciting projects.
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript, SQL, C++
+
+**Frameworks & Tools:** React, Node.js, Express, Flask, Pandas, NumPy
+
+**Databases:** MySQL, PostgreSQL, Firebase
+
+**Version Control:** Git, GitHub
+
+## 📊 GitHub Stats
+![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayeshTapdiya12&show_icons=true&theme=radical)
+
+## 📬 Contact Me
+📧 Email: [jayesh121220@gmail.com](mailto:jayesh121220@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jayesh-tapdiya-01573024a/)
